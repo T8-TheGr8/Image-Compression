@@ -1,4 +1,4 @@
-# 🖼️ Image Compression using SVD (Singular Value Decomposition)
+# Image Compression using SVD (Singular Value Decomposition)
 
 This project applies **Singular Value Decomposition (SVD)** to compress grayscale images by approximating them with low-rank matrices. By keeping only the top *k* singular values, the image can be reconstructed with significantly less data while preserving most of the visual quality.
 
